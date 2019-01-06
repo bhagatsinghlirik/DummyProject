@@ -1,0 +1,435 @@
+[
+    [
+        "E:\\TestDX\\myproject\\force-app",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583832976,
+            "changeTime": 1546583832976,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583832976,
+            "changeTime": 1546583832976,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833085,
+            "changeTime": 1546583833085,
+            "contentHash": "0abcaf17787b5582ddd8c2332f7696d71d728e88",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583832994,
+            "changeTime": 1546583832994,
+            "contentHash": "135a9d7edefdcb0891f1b6e690f1547868d83f3d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls",
+            "isDirectory": false,
+            "size": 84,
+            "modifiedTime": 1546583832984,
+            "changeTime": 1546583832984,
+            "contentHash": "f20184c2d8fe9dc026c2b9cbf7da8c4620e12f4d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\MyController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1546583832978,
+            "changeTime": 1546583832978,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls",
+            "isDirectory": false,
+            "size": 136,
+            "modifiedTime": 1546583832995,
+            "changeTime": 1546583832995,
+            "contentHash": "6bda42f1f35314d581f8aa87458a5e224bba09c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\classes\\Test_MyController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1546583832990,
+            "changeTime": 1546583832990,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\labels",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833000,
+            "changeTime": 1546583833000,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1546583833000,
+            "changeTime": 1546583833000,
+            "contentHash": "2dcc5f1ddd054a94b7c90c7ce6bcd410e68de5ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833006,
+            "changeTime": 1546583833006,
+            "contentHash": "93c058d93b0f38346d75d869a14bb43315919463",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\layouts\\Agenda__c-Agenda Layout.layout-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\layouts\\Agenda__c-Agenda Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2366,
+            "modifiedTime": 1546583833020,
+            "changeTime": 1546583833020,
+            "contentHash": "5034e82c310f0af5d095462f83def7bb2a8355b2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833035,
+            "changeTime": 1546583833035,
+            "contentHash": "037e398c229c65f978af3bcc1003cf76a886c803",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833054,
+            "changeTime": 1546583833054,
+            "contentHash": "32cf39354a89ef544c3d8612c3a36b988adaced4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\Agenda__c.object-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\Agenda__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2011,
+            "modifiedTime": 1546583833036,
+            "changeTime": 1546583833036,
+            "contentHash": "a6dd21b016f6bc737bd7910e30d27db1e6e75b8d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833039,
+            "changeTime": 1546583833039,
+            "contentHash": "cf65c575f13e34d016667b923222c252900c1113",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1546583833038,
+            "changeTime": 1546583833038,
+            "contentHash": "8b9a8cdb7436ce1c43d047c333ed3cc6f3c27048",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1546583833038,
+            "changeTime": 1546583833038,
+            "contentHash": "0d1c4db93723bf4a798e2a3c59eb7f804e381ed6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1546583833052,
+            "changeTime": 1546583833052,
+            "contentHash": "8f9acf6352ac621a27d061a8467294f4027c529b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833053,
+            "changeTime": 1546583833053,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1546583833053,
+            "changeTime": 1546583833053,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833054,
+            "changeTime": 1546583833054,
+            "contentHash": "bb4ae1fc7f1d6e7ff8feb8f38bc2cfce5cf45550",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules\\Agenda_Schedule_date_not_blank.validationRule-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\objects\\Agenda__c\\validationRules\\Agenda_Schedule_date_not_blank.validationRule-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1546583833067,
+            "changeTime": 1546583833067,
+            "contentHash": "226f846803164cda434f05d1249047ca25f16a83",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833080,
+            "changeTime": 1546583833080,
+            "contentHash": "8f7936cdaaf9222b27b26eebeb0c1041cc2e6fa6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\pages\\MyController.page",
+        {
+            "state": "u",
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\pages\\MyController.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 189,
+            "modifiedTime": 1546584730975,
+            "changeTime": 1546584730975,
+            "contentHash": "56388f3e5aa1e7068f7e45e8cfccfb7ab2065cfb"
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\pages\\MyController.page-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\pages\\MyController.page-meta.xml",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1546583833076,
+            "changeTime": 1546583833076,
+            "contentHash": "44342108a30ae96a4a8f44aa7dfba90c5d47f84c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546583833086,
+            "changeTime": 1546583833086,
+            "contentHash": "ac9a9258ca58cdb1d1764cc84bd10145b8346e84",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject\\force-app\\main\\default\\tabs\\Agenda__c.tab-meta.xml",
+        {
+            "sourcePath": "E:\\TestDX\\myproject\\force-app\\main\\default\\tabs\\Agenda__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1546583833086,
+            "changeTime": 1546583833086,
+            "contentHash": "ceb248a73fb162f1dcf8d2d3ef566b30b1095fb1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "E:\\TestDX\\myproject",
+        {
+            "sourcePath": "E:\\TestDX\\myproject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1546581572415,
+            "changeTime": 1546581572415,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
